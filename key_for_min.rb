@@ -10,5 +10,5 @@ def key_for_min_value(name_hash)
       smol_value = value
 end
 end
-smol_value
+smol_key
 end
